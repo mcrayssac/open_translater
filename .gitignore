@@ -205,3 +205,12 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Audio files
+*audio*.wav
+*audio*.mp3
+*audio*.srt
+*audio*.json
+*audio*.tsv
+*audio*.txt
+*audio*.vtt
